@@ -14,6 +14,7 @@
 		79BBA49E25B8AF3D0091ECC1 /* ShopList.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 79BBA49C25B8AF3D0091ECC1 /* ShopList.xcdatamodeld */; };
 		79BBA4A025B8AF3E0091ECC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79BBA49F25B8AF3E0091ECC1 /* Assets.xcassets */; };
 		79BBA4A325B8AF3E0091ECC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79BBA4A125B8AF3E0091ECC1 /* LaunchScreen.storyboard */; };
+		79BBA4AC25B8B5D30091ECC1 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79BBA4AB25B8B5D30091ECC1 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		79BBA49F25B8AF3E0091ECC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79BBA4A225B8AF3E0091ECC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		79BBA4A425B8AF3E0091ECC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79BBA4AB25B8B5D30091ECC1 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				79BBA49325B8AF3D0091ECC1 /* AppDelegate.swift */,
 				79BBA49525B8AF3D0091ECC1 /* SceneDelegate.swift */,
 				79BBA49725B8AF3D0091ECC1 /* ViewController.swift */,
+				79BBA4AB25B8B5D30091ECC1 /* DetailsViewController.swift */,
 				79BBA49925B8AF3D0091ECC1 /* Main.storyboard */,
 				79BBA49F25B8AF3E0091ECC1 /* Assets.xcassets */,
 				79BBA4A125B8AF3E0091ECC1 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				79BBA49425B8AF3D0091ECC1 /* AppDelegate.swift in Sources */,
 				79BBA49625B8AF3D0091ECC1 /* SceneDelegate.swift in Sources */,
 				79BBA49E25B8AF3D0091ECC1 /* ShopList.xcdatamodeld in Sources */,
+				79BBA4AC25B8B5D30091ECC1 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
